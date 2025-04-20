@@ -1,0 +1,22 @@
+[
+	{
+		"name": "Fonts",
+		"url": "/"
+	},
+	{
+		"name": "Icons",
+		"url": "/icons/"
+	},
+	{
+		"name": "Tools",
+		"url": "/tools/"
+	},
+ {
+		"name": "Docs",
+		"url": "/documentation/"
+	},
+	{
+		"name": "About",
+		"url": "/about/"
+	}
+]
