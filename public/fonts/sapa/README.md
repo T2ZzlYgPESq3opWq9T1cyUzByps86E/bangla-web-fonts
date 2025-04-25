@@ -2,18 +2,18 @@
 
 This directory contains the "Sapa" font files.
 
-🌐 [banglawebfonts.pages.dev/sapa](https://banglawebfonts.pages.dev/sapa/)
+🌐 [fonts.merazalvee.com/sapa](https://fonts.merazalvee.com/sapa/)
 
 ## Embed:
 To use the Sapa font on your website, add the following code to your HTML `<head>` section:
 ```html
-<link href='https://banglawebfonts.pages.dev/css/sapa.css' rel='stylesheet'>
+<link href='https://fonts.merazalvee.com/css/sapa.css' rel='stylesheet'>
 ```
 
 or,
 ```html
 <style>
-  @import url('https://banglawebfonts.pages.dev/css/sapa.css');
+  @import url('https://fonts.merazalvee.com/css/sapa.css');
 </style>
 ```
 
@@ -21,7 +21,7 @@ or,
 > You can use the `.min.css` version for better performance and faster loading times.
 > **Minified CSS Stylesheet:**  
 > ```
-> https://banglawebfonts.pages.dev/css/solaiman-lipi.min.css
+> https://fonts.merazalvee.com/css/solaiman-lipi.min.css
 > ```
 
 ## CSS:
@@ -39,4 +39,4 @@ body {
 - **Font Designer:** [Danh Hong](https://github.com/danhhong)
 - **License:** OFL
 
-For more details, visit: [Sapa on Bangla Web Fonts](https://banglawebfonts.pages.dev/sapa/#about).
+For more details, visit: [Sapa on Bangla Web Fonts](https://fonts.merazalvee.com/sapa/#about).

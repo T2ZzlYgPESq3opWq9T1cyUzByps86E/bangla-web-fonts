@@ -2,18 +2,18 @@
 
 This directory contains the "Noto Sans Bengali" font files.
 
-🌐 [banglawebfonts.pages.dev/noto-sans-bengali](https://banglawebfonts.pages.dev/noto-sans-bengali/)
+🌐 [fonts.merazalvee.com/noto-sans-bengali](https://fonts.merazalvee.com/noto-sans-bengali/)
 
 ## Embed:
 To use the Noto Sans Bengali font on your website, add the following code to your HTML `<head>` section:
 ```html
-<link href='https://banglawebfonts.pages.dev/css/noto-sans-bengali.css' rel='stylesheet'>
+<link href='https://fonts.merazalvee.com/css/noto-sans-bengali.css' rel='stylesheet'>
 ```
 
 or,
 ```html
 <style>
-  @import url('https://banglawebfonts.pages.dev/css/noto-sans-bengali.css');
+  @import url('https://fonts.merazalvee.com/css/noto-sans-bengali.css');
 </style>
 ```
 
@@ -21,7 +21,7 @@ or,
 > You can use the `.min.css` version for better performance and faster loading times.
 > **Minified CSS Stylesheet:**  
 > ```
-> https://banglawebfonts.pages.dev/css/solaiman-lipi.min.css
+> https://fonts.merazalvee.com/css/solaiman-lipi.min.css
 > ```
 
 ## CSS:
@@ -39,4 +39,4 @@ body {
 - **Font Designer:** [Google](https://fonts.google.com/)
 - **License:** OFL
 
-For more details, visit: [Noto Sans Bengali on Bangla Web Fonts](https://banglawebfonts.pages.dev/noto-sans-bengali/#about).
+For more details, visit: [Noto Sans Bengali on Bangla Web Fonts](https://fonts.merazalvee.com/noto-sans-bengali/#about).

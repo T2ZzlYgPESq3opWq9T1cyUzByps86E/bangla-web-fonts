@@ -2,18 +2,18 @@
 
 This directory contains the "Mina" font files.
 
-🌐 [banglawebfonts.pages.dev/mina](https://banglawebfonts.pages.dev/mina/)
+🌐 [fonts.merazalvee.com/mina](https://fonts.merazalvee.com/mina/)
 
 ## Embed:
 To use the Mina font on your website, add the following code to your HTML `<head>` section:
 ```html
-<link href='https://banglawebfonts.pages.dev/css/mina.css' rel='stylesheet'>
+<link href='https://fonts.merazalvee.com/css/mina.css' rel='stylesheet'>
 ```
 
 or,
 ```html
 <style>
-  @import url('https://banglawebfonts.pages.dev/css/mina.css');
+  @import url('https://fonts.merazalvee.com/css/mina.css');
 </style>
 ```
 
@@ -21,7 +21,7 @@ or,
 > You can use the `.min.css` version for better performance and faster loading times.
 > **Minified CSS Stylesheet:**  
 > ```
-> https://banglawebfonts.pages.dev/css/solaiman-lipi.min.css
+> https://fonts.merazalvee.com/css/solaiman-lipi.min.css
 > ```
 
 ## CSS:
@@ -39,4 +39,4 @@ body {
 - **Font Designer:** [Suman Bhandary, Natanael Gama, Mooniak](https://github.com/suman51284)
 - **License:** OFL
 
-For more details, visit: [Mina on Bangla Web Fonts](https://banglawebfonts.pages.dev/mina/#about).
+For more details, visit: [Mina on Bangla Web Fonts](https://fonts.merazalvee.com/mina/#about).

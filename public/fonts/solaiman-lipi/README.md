@@ -2,18 +2,18 @@
 
 This directory contains the "Solaiman Lipi" font files.
 
-🌐 [banglawebfonts.pages.dev/solaiman-lipi](https://banglawebfonts.pages.dev/solaiman-lipi/)
+🌐 [fonts.merazalvee.com/solaiman-lipi](https://fonts.merazalvee.com/solaiman-lipi/)
 
 ## Embed:
 To use the Solaiman Lipi font on your website, add the following code to your HTML `<head>` section:
 ```html
-<link href='https://banglawebfonts.pages.dev/css/solaiman-lipi.css' rel='stylesheet'>
+<link href='https://fonts.merazalvee.com/css/solaiman-lipi.css' rel='stylesheet'>
 ```
 
 or,
 ```html
 <style>
-  @import url('https://banglawebfonts.pages.dev/css/solaiman-lipi.css');
+  @import url('https://fonts.merazalvee.com/css/solaiman-lipi.css');
 </style>
 ```
 
@@ -21,7 +21,7 @@ or,
 > You can use the `.min.css` version for better performance and faster loading times.
 > **Minified CSS Stylesheet:**  
 > ```
-> https://banglawebfonts.pages.dev/css/solaiman-lipi.min.css
+> https://fonts.merazalvee.com/css/solaiman-lipi.min.css
 > ```
 
 ## CSS:
@@ -39,4 +39,4 @@ body {
 - **Font Designer:** [Solaiman Karim](https://ekushey.org/designer/solaiman-karim/)
 - **License:** OFL
 
-For more details, visit: [Solaiman Lipi on Bangla Web Fonts](https://banglawebfonts.pages.dev/solaiman-lipi/#about).
+For more details, visit: [Solaiman Lipi on Bangla Web Fonts](https://fonts.merazalvee.com/solaiman-lipi/#about).

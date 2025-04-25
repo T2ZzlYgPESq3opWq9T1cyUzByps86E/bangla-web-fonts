@@ -2,18 +2,18 @@
 
 This directory contains the "Tiro Bangla" font files.
 
-🌐 [banglawebfonts.pages.dev/tiro-bangla](https://banglawebfonts.pages.dev/tiro-bangla/)
+🌐 [fonts.merazalvee.com/tiro-bangla](https://fonts.merazalvee.com/tiro-bangla/)
 
 ## Embed:
 To use the Tiro Bangla font on your website, add the following code to your HTML `<head>` section:
 ```html
-<link href='https://banglawebfonts.pages.dev/css/tiro-bangla.css' rel='stylesheet'>
+<link href='https://fonts.merazalvee.com/css/tiro-bangla.css' rel='stylesheet'>
 ```
 
 or,
 ```html
 <style>
-  @import url('https://banglawebfonts.pages.dev/css/tiro-bangla.css');
+  @import url('https://fonts.merazalvee.com/css/tiro-bangla.css');
 </style>
 ```
 
@@ -21,7 +21,7 @@ or,
 > You can use the `.min.css` version for better performance and faster loading times.
 > **Minified CSS Stylesheet:**  
 > ```
-> https://banglawebfonts.pages.dev/css/solaiman-lipi.min.css
+> https://fonts.merazalvee.com/css/solaiman-lipi.min.css
 > ```
 
 ## CSS:
@@ -39,4 +39,4 @@ body {
 - **Font Designer:** [Tiro Typeworks](https://www.tiro.com/)
 - **License:** OFL
 
-For more details, visit: [Tiro Bangla on Bangla Web Fonts](https://banglawebfonts.pages.dev/tiro-bangla/#about).
+For more details, visit: [Tiro Bangla on Bangla Web Fonts](https://fonts.merazalvee.com/tiro-bangla/#about).

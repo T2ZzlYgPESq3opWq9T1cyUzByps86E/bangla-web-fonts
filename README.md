@@ -3,7 +3,7 @@
 # Bangla Web Fonts
 **Bangla Web Fonts** is a free Bangla web font CDN, providing fast and easy-to-use Bangla fonts for web projects. It allows developers to embed Bangla fonts into websites without direct downloads.
 
-🌐 Website: [banglawebfonts.pages.dev](https://banglawebfonts.pages.dev)
+🌐 Website: [fonts.merazalvee.com](https://fonts.merazalvee.com)
 
 ## Features  
 - 🚀 **Optimized for PageSpeed** – Fonts use modern formats like WOFF2 for faster load times.  

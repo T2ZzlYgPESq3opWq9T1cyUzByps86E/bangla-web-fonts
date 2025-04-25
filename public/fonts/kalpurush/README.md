@@ -2,18 +2,18 @@
 
 This directory contains the "Kalpurush" font files.
 
-🌐 [banglawebfonts.pages.dev/kalpurush](https://banglawebfonts.pages.dev/kalpurush/)
+🌐 [fonts.merazalvee.com/kalpurush](https://fonts.merazalvee.com/kalpurush/)
 
 ## Embed:
 To use the Kalpurush font on your website, add the following code to your HTML `<head>` section:
 ```html
-<link href='https://banglawebfonts.pages.dev/css/kalpurush.css' rel='stylesheet'>
+<link href='https://fonts.merazalvee.com/css/kalpurush.css' rel='stylesheet'>
 ```
 
 or,
 ```html
 <style>
-  @import url('https://banglawebfonts.pages.dev/css/kalpurush.css');
+  @import url('https://fonts.merazalvee.com/css/kalpurush.css');
 </style>
 ```
 
@@ -21,7 +21,7 @@ or,
 > You can use the `.min.css` version for better performance and faster loading times.
 > **Minified CSS Stylesheet:**  
 > ```
-> https://banglawebfonts.pages.dev/css/solaiman-lipi.min.css
+> https://fonts.merazalvee.com/css/solaiman-lipi.min.css
 > ```
 
 ## CSS:
@@ -39,4 +39,4 @@ body {
 - **Font Designer:** [Md. Tanbin Islam Siyam](https://github.com/potasiyam)
 - **License:** OFL
 
-For more details, visit: [Kalpurush on Bangla Web Fonts](https://banglawebfonts.pages.dev/kalpurush/#about).
+For more details, visit: [Kalpurush on Bangla Web Fonts](https://fonts.merazalvee.com/kalpurush/#about).

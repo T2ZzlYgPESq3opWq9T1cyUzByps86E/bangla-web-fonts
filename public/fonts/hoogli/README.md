@@ -2,18 +2,18 @@
 
 This directory contains the "Hoogli" font files.
 
-🌐 [banglawebfonts.pages.dev/hoogli](https://banglawebfonts.pages.dev/hoogli/)
+🌐 [fonts.merazalvee.com/hoogli](https://fonts.merazalvee.com/hoogli/)
 
 ## Embed:
 To use the Hoogli font on your website, add the following code to your HTML `<head>` section:
 ```html
-<link href='https://banglawebfonts.pages.dev/css/hoogli.css' rel='stylesheet'>
+<link href='https://fonts.merazalvee.com/css/hoogli.css' rel='stylesheet'>
 ```
 
 or,
 ```html
 <style>
-  @import url('https://banglawebfonts.pages.dev/css/hoogli.css');
+  @import url('https://fonts.merazalvee.com/css/hoogli.css');
 </style>
 ```
 
@@ -21,7 +21,7 @@ or,
 > You can use the `.min.css` version for better performance and faster loading times.
 > **Minified CSS Stylesheet:**  
 > ```
-> https://banglawebfonts.pages.dev/css/solaiman-lipi.min.css
+> https://fonts.merazalvee.com/css/solaiman-lipi.min.css
 > ```
 
 ## CSS:
@@ -39,4 +39,4 @@ body {
 - **Font Designer:** [Anand Singh Naorem](https://github.com/brandnewtype)
 - **License:** OFL
 
-For more details, visit: [Hoogli on Bangla Web Fonts](https://banglawebfonts.pages.dev/hoogli/#about).
+For more details, visit: [Hoogli on Bangla Web Fonts](https://fonts.merazalvee.com/hoogli/#about).

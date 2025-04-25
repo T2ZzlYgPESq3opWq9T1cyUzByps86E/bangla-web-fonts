@@ -2,18 +2,18 @@
 
 This directory contains the "Kalaa" font files.
 
-🌐 [banglawebfonts.pages.dev/kalaa](https://banglawebfonts.pages.dev/kalaa/)
+🌐 [fonts.merazalvee.com/kalaa](https://fonts.merazalvee.com/kalaa/)
 
 ## Embed:
 To use the Kalaa font on your website, add the following code to your HTML `<head>` section:
 ```html
-<link href='https://banglawebfonts.pages.dev/css/kalaa.css' rel='stylesheet'>
+<link href='https://fonts.merazalvee.com/css/kalaa.css' rel='stylesheet'>
 ```
 
 or,
 ```html
 <style>
-  @import url('https://banglawebfonts.pages.dev/css/kalaa.css');
+  @import url('https://fonts.merazalvee.com/css/kalaa.css');
 </style>
 ```
 
@@ -21,7 +21,7 @@ or,
 > You can use the `.min.css` version for better performance and faster loading times.
 > **Minified CSS Stylesheet:**  
 > ```
-> https://banglawebfonts.pages.dev/css/solaiman-lipi.min.css
+> https://fonts.merazalvee.com/css/solaiman-lipi.min.css
 > ```
 
 ## CSS:
@@ -39,4 +39,4 @@ body {
 - **Font Designer:** [Danh Hong](https://github.com/danhhong)
 - **License:** OFL
 
-For more details, visit: [Kalaa on Bangla Web Fonts](https://banglawebfonts.pages.dev/kalaa/#about).
+For more details, visit: [Kalaa on Bangla Web Fonts](https://fonts.merazalvee.com/kalaa/#about).

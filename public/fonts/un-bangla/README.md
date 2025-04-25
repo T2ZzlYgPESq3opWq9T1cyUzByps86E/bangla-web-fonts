@@ -2,18 +2,18 @@
 
 This directory contains the "UN Bangla" font files.
 
-🌐 [banglawebfonts.pages.dev/un-bangla](https://banglawebfonts.pages.dev/un-bangla/)
+🌐 [fonts.merazalvee.com/un-bangla](https://fonts.merazalvee.com/un-bangla/)
 
 ## Embed:
 To use the UN Bangla font on your website, add the following code to your HTML `<head>` section:
 ```html
-<link href='https://banglawebfonts.pages.dev/css/un-bangla.css' rel='stylesheet'>
+<link href='https://fonts.merazalvee.com/css/un-bangla.css' rel='stylesheet'>
 ```
 
 or,
 ```html
 <style>
-  @import url('https://banglawebfonts.pages.dev/css/un-bangla.css');
+  @import url('https://fonts.merazalvee.com/css/un-bangla.css');
 </style>
 ```
 
@@ -21,7 +21,7 @@ or,
 > You can use the `.min.css` version for better performance and faster loading times.
 > **Minified CSS Stylesheet:**  
 > ```
-> https://banglawebfonts.pages.dev/css/solaiman-lipi.min.css
+> https://fonts.merazalvee.com/css/solaiman-lipi.min.css
 > ```
 
 ## CSS:
@@ -39,4 +39,4 @@ body {
 - **Font Designer:** [UNDP Bangladesh](https://www.undp.org/bangladesh)
 - **License:** OFL
 
-For more details, visit: [UN Bangla on Bangla Web Fonts](https://banglawebfonts.pages.dev/un-bangla/#about).
+For more details, visit: [UN Bangla on Bangla Web Fonts](https://fonts.merazalvee.com/un-bangla/#about).

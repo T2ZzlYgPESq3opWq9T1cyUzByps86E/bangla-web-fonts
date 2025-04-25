@@ -2,18 +2,18 @@
 
 This directory contains the "Ekushey Azad" font files.
 
-🌐 [banglawebfonts.pages.dev/ekushey-azad](https://banglawebfonts.pages.dev/ekushey-azad/)
+🌐 [fonts.merazalvee.com/ekushey-azad](https://fonts.merazalvee.com/ekushey-azad/)
 
 ## Embed:
 To use the Ekushey Azad font on your website, add the following code to your HTML `<head>` section:
 ```html
-<link href='https://banglawebfonts.pages.dev/css/ekushey-azad.css' rel='stylesheet'>
+<link href='https://fonts.merazalvee.com/css/ekushey-azad.css' rel='stylesheet'>
 ```
 
 or,
 ```html
 <style>
-  @import url('https://banglawebfonts.pages.dev/css/ekushey-azad.css');
+  @import url('https://fonts.merazalvee.com/css/ekushey-azad.css');
 </style>
 ```
 
@@ -21,7 +21,7 @@ or,
 > You can use the `.min.css` version for better performance and faster loading times.
 > **Minified CSS Stylesheet:**  
 > ```
-> https://banglawebfonts.pages.dev/css/solaiman-lipi.min.css
+> https://fonts.merazalvee.com/css/solaiman-lipi.min.css
 > ```
 
 ## CSS:
@@ -39,4 +39,4 @@ body {
 - **Font Designer:** [Ekushey](https://ekushey.org/)
 - **License:** GPL
 
-For more details, visit: [Ekushey Azad on Bangla Web Fonts](https://banglawebfonts.pages.dev/ekushey-azad/#about).
+For more details, visit: [Ekushey Azad on Bangla Web Fonts](https://fonts.merazalvee.com/ekushey-azad/#about).

@@ -11,7 +11,7 @@ function loadFontCSS(fontPath) {
   const link = document.createElement("link");
   link.id = "font-css-" + fontPath;
   link.rel = "stylesheet";
-  link.href = `https://banglawebfonts.pages.dev/css/${fontPath}.css`;
+  link.href = `https://fonts.merazalvee.com/css/${fontPath}.css`;
   document.head.appendChild(link);
 }
 
@@ -34,7 +34,7 @@ function renderFontCard(font, text) {
   return `
     <div class="bg-white dark:bg-gray-800 px-5 py-5 rounded-xl border border-gray-200 dark:border-gray-700">
       <h2 class="text-2xl font-semibold mb-1">
-        <a href="https://banglawebfonts.pages.dev/${font.FontPath}" class="text-blue-600 dark:text-blue-400 hover:underline">
+        <a href="https://fonts.merazalvee.com/${font.FontPath}" class="text-blue-600 dark:text-blue-400 hover:underline">
           ${font.FontName}
         </a>
       </h2>

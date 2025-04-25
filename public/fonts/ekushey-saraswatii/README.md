@@ -2,18 +2,18 @@
 
 This directory contains the "Ekushey Saraswatii" font files.
 
-🌐 [banglawebfonts.pages.dev/ekushey-saraswatii](https://banglawebfonts.pages.dev/ekushey-saraswatii/)
+🌐 [fonts.merazalvee.com/ekushey-saraswatii](https://fonts.merazalvee.com/ekushey-saraswatii/)
 
 ## Embed:
 To use the Ekushey Saraswatii font on your website, add the following code to your HTML `<head>` section:
 ```html
-<link href='https://banglawebfonts.pages.dev/css/ekushey-saraswatii.css' rel='stylesheet'>
+<link href='https://fonts.merazalvee.com/css/ekushey-saraswatii.css' rel='stylesheet'>
 ```
 
 or,
 ```html
 <style>
-  @import url('https://banglawebfonts.pages.dev/css/ekushey-saraswatii.css');
+  @import url('https://fonts.merazalvee.com/css/ekushey-saraswatii.css');
 </style>
 ```
 
@@ -21,7 +21,7 @@ or,
 > You can use the `.min.css` version for better performance and faster loading times.
 > **Minified CSS Stylesheet:**  
 > ```
-> https://banglawebfonts.pages.dev/css/solaiman-lipi.min.css
+> https://fonts.merazalvee.com/css/solaiman-lipi.min.css
 > ```
 
 ## CSS:
@@ -39,4 +39,4 @@ body {
 - **Font Designer:** [Ekushey](https://ekushey.org/)
 - **License:** GPL
 
-For more details, visit: [Ekushey Saraswatii on Bangla Web Fonts](https://banglawebfonts.pages.dev/ekushey-saraswatii/#about).
+For more details, visit: [Ekushey Saraswatii on Bangla Web Fonts](https://fonts.merazalvee.com/ekushey-saraswatii/#about).

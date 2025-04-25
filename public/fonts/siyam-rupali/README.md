@@ -2,18 +2,18 @@
 
 This directory contains the "Siyam Rupali" font files.
 
-🌐 [banglawebfonts.pages.dev/siyam-rupali](https://banglawebfonts.pages.dev/siyam-rupali/)
+🌐 [fonts.merazalvee.com/siyam-rupali](https://fonts.merazalvee.com/siyam-rupali/)
 
 ## Embed:
 To use the Siyam Rupali font on your website, add the following code to your HTML `<head>` section:
 ```html
-<link href='https://banglawebfonts.pages.dev/css/siyam-rupali.css' rel='stylesheet'>
+<link href='https://fonts.merazalvee.com/css/siyam-rupali.css' rel='stylesheet'>
 ```
 
 or,
 ```html
 <style>
-  @import url('https://banglawebfonts.pages.dev/css/siyam-rupali.css');
+  @import url('https://fonts.merazalvee.com/css/siyam-rupali.css');
 </style>
 ```
 
@@ -21,7 +21,7 @@ or,
 > You can use the `.min.css` version for better performance and faster loading times.
 > **Minified CSS Stylesheet:**  
 > ```
-> https://banglawebfonts.pages.dev/css/solaiman-lipi.min.css
+> https://fonts.merazalvee.com/css/solaiman-lipi.min.css
 > ```
 
 ## CSS:
@@ -39,4 +39,4 @@ body {
 - **Font Designer:** [Md. Tanbin Islam Siyam](https://github.com/potasiyam)
 - **License:** GPL
 
-For more details, visit: [Siyam Rupali on Bangla Web Fonts](https://banglawebfonts.pages.dev/siyam-rupali/#about).
+For more details, visit: [Siyam Rupali on Bangla Web Fonts](https://fonts.merazalvee.com/siyam-rupali/#about).
